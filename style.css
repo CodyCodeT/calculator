@@ -33,7 +33,8 @@ body {
         cursor: pointer;
     }
 }
-.number:hover {
+.number:hover,
+.key--equal:hover {
     background-color: #6e6c6a;
     cursor: pointer;
 }
